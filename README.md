@@ -1,4 +1,5 @@
-# collect
+# collect 
+https://maytri315.github.io/collect/
 ✨Gesture-Controlled Game 🚀
 Hands up, everyone! Literally!
 
