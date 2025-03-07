@@ -20,7 +20,7 @@ Canvas API - Our playground for drawing and moving all the things!
 🎮 How to Play
 Open the game in your browser.
 
-Wave hello and grant camera permissions (we promise, no spying! 📸).
+Wave hello and grant camera permissions (i promise, no spying! 📸).
 
 Get ready to:
 
